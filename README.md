@@ -25,3 +25,4 @@
 * Carlos Rojas Valdés
 * Nicolás Quintana
 * Carlos Moreno
+* Bastián Salvo Rojas
